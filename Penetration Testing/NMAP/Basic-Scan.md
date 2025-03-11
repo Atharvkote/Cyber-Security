@@ -1,4 +1,4 @@
-Here are essential **Nmap** commands for basic scanning during a penetration test:  
+# NMAP Basic Scanning Commands
 
 ### **Basic Host Discovery**
 1. **Ping Scan (Check if a host is online)**
