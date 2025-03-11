@@ -95,4 +95,3 @@ Here are essential **Nmap** commands for basic scanning during a penetration tes
     ```
     - Attempts to brute force FTP login credentials.
 
-Would you like me to add these commands to your **README** file? 🚀
