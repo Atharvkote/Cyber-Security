@@ -1,5 +1,5 @@
 <p align="center">
-    <img hieght="100"  src="../.git-config/Nmap.png" alt="img">
+    <img height="350"  src="../.git-config/Nmap.png" alt="img">
 </p>
 
 #  Nmap - Scanning, Enumeration, Firewall Evasion, and Outputs
