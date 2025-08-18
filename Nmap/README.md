@@ -198,8 +198,6 @@ nmap -sV --version-intensity 9 192.168.1.10
   * **Slower**
   * **Noisy** (easier for firewalls/IDS to detect)
 * Best for **deep analysis** when stealth is not required.
-Got it 👍 Let’s rewrite both **OS Detection** and **Timing & Performance** in the same **3-option structured style** (like we did for Ports and Services). This keeps everything uniform and easy to revise.
-
 
 ##  OS Detection
 
