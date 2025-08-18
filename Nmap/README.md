@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../.git-config/Nmap.png" alt="Nmap Logo" height="120">
+    <img src="../.git-config/Nmap.png" alt="Nmap Logo" height="350">
 </p>
 
 # Nmap Complete Guide – From Basics to Advanced
@@ -57,6 +57,23 @@ It is used by:
 - Hackers/CTF players (enumeration in attack chains)
 
 
+Nmap (Network Mapper) is the most popular tool for **network discovery, enumeration, vulnerability detection, and firewall/IDS evasion**.
+This guide covers **scan types, options, scripts, evasion techniques, and detailed outputs**.
+
+
+###  Basic Nmap Syntax
+
+```bash
+nmap [Scan Type(s)] [Options] <target>
+```
+
+Examples:
+
+```bash
+nmap -sS -p- 192.168.1.1
+nmap -A -T4 10.10.10.5
+nmap -sU -p 53 192.168.56.101
+```
 
 ## Basic Scan Types
 
