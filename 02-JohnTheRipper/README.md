@@ -2,7 +2,7 @@
     <img src="../.git-config/John.png" alt="img">
 </p>
 
-# Hash Identification and Password Cracking with John the Ripper in Kali Linux
+# John the Ripper - Hash Identification and Password Cracking
 
 ## 1. Introduction
 
