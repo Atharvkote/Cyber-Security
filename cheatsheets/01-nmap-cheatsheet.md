@@ -2,7 +2,7 @@
     <img src="https://res.cloudinary.com/dgz7hqbl9/image/upload/v1764266258/Nmap_sb98ec.png" alt="Nmap Logo" height="350">
 </p>
 
-# Nmap Complete Guide – From Basics to Advanced
+# Nmap Cheatsheet – From Basics to Advanced
 
 This README is a **complete guide to Nmap**, covering everything from basic scans to advanced evasion, NSE scripting, and real-world labs (Metasploitable2).  
 It is structured for both **beginners and advanced penetration testers**.
