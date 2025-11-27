@@ -1,3 +1,6 @@
+<!--![Image](https://res.cloudinary.com/dgz7hqbl9/image/upload/v1764267493/sql-injection_hicfns.svg)--->
+
+
 # **SQL Injection Cheat Sheet**
 
 A comprehensive, developer-friendly SQL Injection (SQLi) cheat sheet with syntax references for Oracle, MySQL, PostgreSQL, and Microsoft SQL Server. Includes string operations, comments, enumeration queries, timing attacks, DNS exfiltration, stacked queries, and more.
