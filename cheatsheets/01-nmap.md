@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../.git-config/Namp.png" alt="Nmap Logo" height="350">
+    <img src="https://res.cloudinary.com/dgz7hqbl9/image/upload/v1764266258/Nmap_sb98ec.png" alt="Nmap Logo" height="350">
 </p>
 
 # Nmap Complete Guide – From Basics to Advanced
