@@ -489,14 +489,14 @@ nmap -sT -sU -p 53 --script=dns-recursion,dns-zone-transfer 192.168.1.1
 
 ## Summary Table
 
-| Service         | Ports       | Info Gathered                      | Risk                                    |
-|  | -- | - |  |
-| **NetBIOS/SMB** | 137-139,445 | Hostnames, shares, users           | High (data leakage, SMB exploits)       |
-| **SNMP**        | 161/162 UDP | System info, processes, interfaces | High (default community strings common) |
-| **LDAP**        | 389/636     | Users, groups, domain policies     | Critical (AD enumeration)               |
-| **NTP**         | 123/UDP     | System time, peers, OS hints       | Medium                                  |
-| **SMTP**        | 25,465,587  | Valid users, server banner         | Medium (phishing/brute force)           |
-| **DNS**         | 53/TCP+UDP  | Subdomains, zone transfers, IPs    | High (network mapping)                  |
+| Service         | Ports          | Info Gathered                      | Risk                                    |
+|-----------------|----------------|------------------------------------|-----------------------------------------|
+| **NetBIOS/SMB** | 137–139, 445   | Hostnames, shares, users           | High (data leakage, SMB exploits)       |
+| **SNMP**        | 161/162 UDP    | System info, processes, interfaces | High (default community strings common) |
+| **LDAP**        | 389/636        | Users, groups, domain policies     | Critical (AD enumeration)               |
+| **NTP**         | 123/UDP        | System time, peers, OS hints       | Medium                                  |
+| **SMTP**        | 25, 465, 587   | Valid users, server banner         | Medium (phishing/brute force)           |
+| **DNS**         | 53 TCP/UDP     | Subdomains, zone transfers, IPs    | High (network mapping)                  |
 
 ## **Real-World Lab Walkthrough (Metasploitable)**
 
